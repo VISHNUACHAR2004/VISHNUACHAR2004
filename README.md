@@ -9,9 +9,9 @@ Currently exploring ways to make models smarter (and maybe myself too).
 - 🚀 ML/DL enthusiast building projects from scratch
 - 🤖 Love working on CNNs, LSTMs, and anything that ends with "AI"
 
-# Experience
-- 1. AIML Intern, Centre for e-Governance(CeG) Karnataka (November'24-February'25)
-- 2. AIML Intern, walue.biz (April'25-July'25)
+### Experience
+- 1. AIML Intern, **Centre for e-Governance(CeG) Karnataka** (November'24-February'25)
+- 2. AIML Intern, **walue.biz** (April'25-July'25)
 
 ---
 
