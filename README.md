@@ -5,17 +5,17 @@ Currently exploring ways to make models smarter (and maybe myself too).
 
 ---
 
-### 👨‍💻 About Me
+# 👨‍💻About Me
 - 🚀 ML/DL enthusiast building projects from scratch
 - 🤖 Love working on CNNs, LSTMs, and anything that ends with "AI"
 
-### Experience
+# 💼Experience
 - 1. AIML Intern, **Centre for e-Governance(CeG) Karnataka** (November'24-February'25)
 - 2. AIML Intern, **walue.biz** (April'25-July'25)
 
 ---
 
-### 🛠 Tech Stack
+# 🛠Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -33,7 +33,7 @@ Currently exploring ways to make models smarter (and maybe myself too).
 
 ---
 
-### 📊 GitHub Stats
+# 📊GitHub Stats
 
 ![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=VISHNUACHAR2004&show_icons=true&theme=radical)
 
@@ -43,7 +43,7 @@ Currently exploring ways to make models smarter (and maybe myself too).
 
 ---
 
-### 📫 Connect with Me
+# 📫Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-r-123296265/ )
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishnuradhakrishna45@gmail.com)
 
