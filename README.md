@@ -1,13 +1,9 @@
-# Hi there, I'm Vishnu 👋
+# Hi there, I'm Vishnu
 
 I'm passionate about **Machine Learning**, **Deep Learning**, and **Generative AI**.  
 Currently exploring ways to make models smarter (and maybe myself too).
 
 ---
-
-# 👨‍💻About Me
-- 🚀 ML/DL enthusiast building projects from scratch
-- 🤖 Love working on CNNs, LSTMs, and anything that ends with "AI"
 
 # 💼Experience
 - 1. AIML Intern, **Centre for e-Governance(CeG) Karnataka** (November'24-February'25)
